@@ -1,5 +1,5 @@
 name       : yices2          # name of the package
-version    : 2.4.1-2       # version of the package
+version    : 2.4.1-3       # version of the package
 kind       : tool                     # one of tool or spec(s)
 description: Yices 2 is an SMT solver that decides the satisfiability of formulas containing uninterpreted function symbols with equality, linear real and integer arithmetic, bitvectors, scalar types, and tuples.
 
